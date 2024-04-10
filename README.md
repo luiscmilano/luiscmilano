@@ -11,7 +11,7 @@
 </div>
 <br>
 
-I'm Luis Milano, an electrical engineer transitioning to data science, with hands-on experience in solar PV projects. I am fluent in Python and machine learning, I'm eager to apply my experience in sustainable projects to drive the advancement of renewable energy and implement solutions in the field of data science. In my free time I like:
+I'm Luis Milano, a proactive data scientist with a solid background in electrical engineering, with hands-on experience in solar PV projects. I am fluent in Python and machine learning, I'm eager to apply my experience in sustainable projects to drive the advancement of renewable energy and implement solutions in the field of data science. In my free time I like:
 >
 ![Climbing](https://img.shields.io/badge/Climbing-%F0%9F%A7%97-green?color=4CAF50)
 ![Trekking](https://img.shields.io/badge/Trekking-%F0%9F%8C%B6-green?color=4CAF50)
