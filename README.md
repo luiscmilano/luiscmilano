@@ -13,7 +13,7 @@
 
 I'm Luis Milano, an electrical engineer transitioning to data science, with hands-on experience in solar PV projects. I am fluent in Python and machine learning, I'm eager to apply my experience in sustainable projects to drive the advancement of renewable energy and implement solutions in the field of data science. In my free time I like:
 >
-[![Climbing](https://img.shields.io/badge/Climbing-%F0%9F%8C%B8-green?color=4CAF50)](https://en.wikipedia.org/wiki/Climbing){:target="_blank"}
+[![Climbing](https://img.shields.io/badge/Climbing-%F0%9F%8C%B8-green?color=4CAF50)](https://en.wikipedia.org/wiki/Climbing){target="_blank"}
 [![Trekking](https://img.shields.io/badge/Trekking-%F0%9F%8C%B6-green?color=4CAF50)](https://en.wikipedia.org/wiki/Trekking){:target="_blank"}
 [![Mountaineering](https://img.shields.io/badge/Mountaineering-%F0%9F%8C%B0-green?color=4CAF50)](https://en.wikipedia.org/wiki/Mountaineering){:target="_blank"}
 [![Reading](https://img.shields.io/badge/Reading-%F0%9F%93%9A-a6a6f8)](https://en.wikipedia.org/wiki/Reading){:target="_blank"}
