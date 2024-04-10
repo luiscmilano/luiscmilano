@@ -1,11 +1,11 @@
 ### ✌️ Hi there!
 <br>
-<div style="text-align: center;">
+<div style="text-align: center;" target="_blank">
     <a href="https://www.linkedin.com/in/luiscmilano/">
         <img src="https://img.shields.io/badge/Luis_Milano-blue?style=social-square&logo=Linkedin&logoColor=white" alt="Linkedin">
     </a>
 
-   <a href="https://github.com/luiscmilano">
+   <a href="https://github.com/luiscmilano" target="_blank">
         <img src="https://img.shields.io/github/followers/luiscmilano?label=luiscmilano&style=social" alt="GitHub">
     </a>
 </div>
@@ -13,14 +13,14 @@
 
 I'm Luis Milano, an electrical engineer transitioning to data science, with hands-on experience in solar PV projects. I am fluent in Python and machine learning, I'm eager to apply my experience in sustainable projects to drive the advancement of renewable energy and implement solutions in the field of data science. In my free time I like:
 >
-[![Climbing](https://img.shields.io/badge/Climbing-%F0%9F%8C%B8-green?color=4CAF50)](https://en.wikipedia.org/wiki/Climbing)
-[![Trekking](https://img.shields.io/badge/Trekking-%F0%9F%8C%B6-green?color=4CAF50)](https://en.wikipedia.org/wiki/Trekking)
-[![Mountaineering](https://img.shields.io/badge/Mountaineering-%F0%9F%8C%B0-green?color=4CAF50)](https://en.wikipedia.org/wiki/Mountaineering)
-[![Reading](https://img.shields.io/badge/Reading-%F0%9F%93%9A-a6a6f8)](https://en.wikipedia.org/wiki/Reading)
-[![Coffee Hopping](https://img.shields.io/badge/Coffee_Hopping-%E2%98%95-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Coffeehouse)
-[![Bar Hopping](https://img.shields.io/badge/Bar_Hopping-%F0%9F%8D%BB-lightpurple?color=a6a6f8)](https://en.wikipedia.org/wiki/Bar_hopping)
-[![Coding](https://img.shields.io/badge/Coding-%F0%9F%92%BB-lightpurple?color=a6a6f8)](https://en.wikipedia.org/wiki/Coding)
-[![Learning](https://img.shields.io/badge/Learning-%F0%9F%8E%93-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Learning)
+[![Climbing](https://img.shields.io/badge/Climbing-%F0%9F%8C%B8-green?color=4CAF50)](https://en.wikipedia.org/wiki/Climbing){:target="_blank"}
+[![Trekking](https://img.shields.io/badge/Trekking-%F0%9F%8C%B6-green?color=4CAF50)](https://en.wikipedia.org/wiki/Trekking){:target="_blank"}
+[![Mountaineering](https://img.shields.io/badge/Mountaineering-%F0%9F%8C%B0-green?color=4CAF50)](https://en.wikipedia.org/wiki/Mountaineering){:target="_blank"}
+[![Reading](https://img.shields.io/badge/Reading-%F0%9F%93%9A-a6a6f8)](https://en.wikipedia.org/wiki/Reading){:target="_blank"}
+[![Coffee Hopping](https://img.shields.io/badge/Coffee_Hopping-%E2%98%95-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Coffeehouse){:target="_blank"}
+[![Bar Hopping](https://img.shields.io/badge/Bar_Hopping-%F0%9F%8D%BB-lightpurple?color=a6a6f8)](https://en.wikipedia.org/wiki/Bar_hopping){:target="_blank"}
+[![Coding](https://img.shields.io/badge/Coding-%F0%9F%92%BB-lightpurple?color=a6a6f8)](https://en.wikipedia.org/wiki/Coding){:target="_blank"}
+[![Learning](https://img.shields.io/badge/Learning-%F0%9F%8E%93-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Learning){:target="_blank"}
 
 ### Code
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=f7db5d&color=326998)
