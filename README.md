@@ -1,7 +1,7 @@
 ### ✌️ Hi there!
 <br>
-<div style="text-align: center;" target="_blank">
-    <a href="https://www.linkedin.com/in/luiscmilano/">
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/luiscmilano/" target="_blank">
         <img src="https://img.shields.io/badge/Luis_Milano-blue?style=social-square&logo=Linkedin&logoColor=white" alt="Linkedin">
     </a>
 
